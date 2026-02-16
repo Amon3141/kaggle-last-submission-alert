@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Kaggle残り提出回数警告",
-  "version": "1.0",
+  "version": "1.0.1",
   "description": "Kaggleで今日の提出回数が残り1回の時に警告を表示します。",
   "icons": {
     "16": "icon.png",
